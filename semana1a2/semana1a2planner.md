@@ -12,7 +12,7 @@ e desenvolvimento de sistemas sob medida.
  
 A companhia opera com acesso remoto aos sistemas dos clientes para assistência técnica e emprega servidores próprios para guardar os códigos-fonte dos programas criados. Ademais, conta com um banco de 
 dados interno que armazena credenciais de clientes, registros de atendimento e dados de configuração de redes corporativas.
-## 2.2 Invetário de recursos de TI
+## 2.2 Inventário de recursos de TI
 A TechFast Solutions depende da seguinte infraestrutura tecnológica para suas operações:
 
 Hardware:
