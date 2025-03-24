@@ -36,3 +36,13 @@ Para reduzir os riscos e assegurar o cumprimento das exigências legais, a TechF
 - Marco Civil da Internet: Regula os direitos e deveres de empresas que operam online, incluindo a privacidade e a proteção dos usuários.
 
 - Políticas internas de segurança: É essencial que a empresa implemente diretrizes claras sobre o uso de senhas, acesso remoto e a guarda de informações confidenciais
+## Referências Bibliográficas
+STALLINGS, William. Criptografia e segurança de redes: princípios e práticas. 6. ed. São Paulo: Pearson, 2019.
+
+CABRAL, Marcos S.; CAPRINO, Leonardo. Segurança da Informação: princípios, práticas e aplicações. Rio de Janeiro: Ciência Moderna, 2021.
+
+BRASIL. Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018). Disponível em: https://www.planalto.gov.br. Acesso em: 24 mar. 2025.
+
+ABNT. NBR ISO/IEC 27001:2022 - Tecnologia da Informação - Técnicas de Segurança - Sistemas de Gestão de Segurança da Informação - Requisitos. Associação Brasileira de Normas Técnicas, 2022.
+
+HINTZBERGEN, Johan et al. Fundamentos de Segurança da Informação Baseados na ISO 27001 e ISO 27002. São Paulo: Brasport, 2018.
