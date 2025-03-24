@@ -1,6 +1,6 @@
 # 3. Ameaças, Vulnerabilidades e Normas de segurança (ETAPA 2)
 ## 3.1 Mapeamento de Ameaças e Vulnerabilidades
-A TechFast Solutions, por atuar no setor de tecnologia com foco em suporte remoto e desenvolvimento de software, enfrenta 
+A Forte Soluções, por atuar no setor de tecnologia com foco em suporte remoto e desenvolvimento de software, enfrenta 
 diferentes tipos de riscos e vulnerabilidades. Entre as principais estão:
 
 Riscos Externos
@@ -11,13 +11,15 @@ Riscos Externos
 
 - Ataques de força bruta: Hackers podem tentar descobrir senhas para invadir servidores ou contas corporativas.
 
+- Ataques de DDoS: Ataque cibernético que busca sobrecarregar/indisponibilizar os recursos de um site ou servidor, negando serviço a usuários legítimos e impedindo que o tráfego legítimo chegue ao seu destino
+
 Riscos Internos
 
 - Engenharia social: Pessoas mal-intencionadas podem enganar funcionários para obter informações sensíveis ou acessar sistemas críticos.
 
 - Uso impróprio de senhas: A reutilização de senhas fracas por colaboradores aumenta as chances de comprometimento das credenciais.
 
-- Gestão inadequada de acessos: Acesso não revogado de ex-funcionários pode representar um risco ao permitir que eles continuem acessando sistemas importantes.
+- Gestão inadequada de acessos: Acesso não revogado de ex-funcionários ou permissões inadequadas podem representar um risco ao permitir que eles continuem acessando sistemas importantes.
 
 Fragilidades Técnicas
 
@@ -26,8 +28,9 @@ Fragilidades Técnicas
 - Backups ineficientes: A falta de uma estratégia confiável de backup pode levar à perda de dados em casos de falhas ou ataques.
 
 - Exposição da rede interna: Configurações inadequadas de firewall e VPN aumentam a vulnerabilidade a invasões.
+
 ## 3.2 Normas e Regulamentações Aplicáveis
-Para reduzir os riscos e assegurar o cumprimento das exigências legais, a TechFast Solutions deve seguir as normas e regulamentações voltadas à segurança da informação:
+Para reduzir os riscos e assegurar o cumprimento das exigências legais, a Forte Soluções deve seguir as normas e regulamentações voltadas à segurança da informação:
 
 - ISO 27001: Norma internacional que estabelece orientações para a gestão da segurança da informação, abrangendo controles de acesso e proteção de dados.
 
@@ -37,12 +40,3 @@ Para reduzir os riscos e assegurar o cumprimento das exigências legais, a TechF
 
 - Políticas internas de segurança: É essencial que a empresa implemente diretrizes claras sobre o uso de senhas, acesso remoto e a guarda de informações confidenciais
 ## Referências Bibliográficas
-STALLINGS, William. Criptografia e segurança de redes: princípios e práticas. 6. ed. São Paulo: Pearson, 2019.
-
-CABRAL, Marcos S.; CAPRINO, Leonardo. Segurança da Informação: princípios, práticas e aplicações. Rio de Janeiro: Ciência Moderna, 2021.
-
-BRASIL. Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018). Disponível em: https://www.planalto.gov.br. Acesso em: 24 mar. 2025.
-
-ABNT. NBR ISO/IEC 27001:2022 - Tecnologia da Informação - Técnicas de Segurança - Sistemas de Gestão de Segurança da Informação - Requisitos. Associação Brasileira de Normas Técnicas, 2022.
-
-HINTZBERGEN, Johan et al. Fundamentos de Segurança da Informação Baseados na ISO 27001 e ISO 27002. São Paulo: Brasport, 2018.

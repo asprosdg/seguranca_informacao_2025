@@ -1,23 +1,21 @@
 # 1. INTRODUÇÃO 
 
 Este projeto tem como objetivo desenvolver um Plano Básico de Segurança da Informação para uma organização fictícia, abordando ameaças, vulnerabilidades, normas e boas práticas aplicáveis. O cenário 
-escolhido será a a empresa fictícia "TechFast Solutions", uma pequena empresa de tecnologia especializada em suporte técnico e desenvolvimento de softwares sob demanda para pequenas empresas e comércios 
+escolhido será a a empresa fictícia "Forte Soluções", uma pequena empresa de tecnologia especializada em suporte técnico e desenvolvimento de softwares sob demanda para pequenas empresas e comércios 
 locais.
 # 2. Contexto e Princípios de Segurança da Informação 
 ## 2.1 Descrição do Cenário 
 
-A TechFast Solutions é uma pequena companhia tecnológica focada em assistência técnica e criação de software sob medida para pequenos negócios e estabelecimentos comerciais locais. 
+A Forte Soluções é uma pequena companhia tecnológica focada em assistência técnica e criação de software sob medida para pequenos negócios e estabelecimentos comerciais locais. 
 Fundada há cinco anos, a companhia conta com uma equipe de 10 colaboradores e serve aproximadamente 50 clientes regulares, proporcionando soluções como manutenção de servidores, ajuste de redes 
 e desenvolvimento de sistemas sob medida.
  
 A companhia opera com acesso remoto aos sistemas dos clientes para assistência técnica e emprega servidores próprios para guardar os códigos-fonte dos programas criados. Ademais, conta com um banco de 
 dados interno que armazena credenciais de clientes, registros de atendimento e dados de configuração de redes corporativas.
 ## 2.2 Inventário de recursos de TI
-A TechFast Solutions depende da seguinte infraestrutura tecnológica para suas operações:
+A Forte Soluções depende da seguinte infraestrutura tecnológica para suas operações:
 
 Hardware:
-
-- 5 servidores locais para armazenamento de códigos-fonte e banco de dados interno
 
 - 10 computadores para os funcionários
 
@@ -27,7 +25,9 @@ Hardware:
 
 Software:
 
-- Ferramentas de desenvolvimento como Visual Studio, MySQL, PostgreSQL
+- Servidores remotos para o deploy das aplicações 
+
+- Ferramentas de desenvolvimento como Visual Studio Code, MySQL, PostgreSQL
 
 - Sistemas de controle de versão (GitHub, GitLab)
 
