@@ -17,41 +17,41 @@ A TechFast Solutions depende da seguinte infraestrutura tecnológica para suas o
 
 Hardware:
 
-5 servidores locais para armazenamento de códigos-fonte e banco de dados interno
+- 5 servidores locais para armazenamento de códigos-fonte e banco de dados interno
 
-10 computadores para os funcionários
+- 10 computadores para os funcionários
 
-3 notebooks para suporte externo
+- 3 notebooks para suporte externo
 
-2 roteadores para gerenciamento de rede interna
+- 2 roteadores para gerenciamento de rede interna
 
 Software:
 
-Ferramentas de desenvolvimento como Visual Studio, MySQL, PostgreSQL
+- Ferramentas de desenvolvimento como Visual Studio, MySQL, PostgreSQL
 
-Sistemas de controle de versão (GitHub, GitLab)
+- Sistemas de controle de versão (GitHub, GitLab)
 
-Plataformas de suporte remoto (AnyDesk, TeamViewer)
+- Plataformas de suporte remoto (AnyDesk, TeamViewer)
 
-Softwares de monitoramento de redes e segurança
+- Softwares de monitoramento de redes e segurança
 
 Redes:
 
-Infraestrutura de rede interna com firewall e VPN para acesso remoto seguro
+- Infraestrutura de rede interna com firewall e VPN para acesso remoto seguro
 
-Serviços de armazenamento em nuvem para backup dos dados críticos
+- Serviços de armazenamento em nuvem para backup dos dados críticos
 
-Conexão dedicada para comunicação com servidores externos
+- Conexão dedicada para comunicação com servidores externos
 
 Dados Sensíveis:
 
-Credenciais de clientes para acesso remoto e configuração de redes
+- Credenciais de clientes para acesso remoto e configuração de redes
 
-Informações de pagamento de contratos e assinaturas de suporte
+- Informações de pagamento de contratos e assinaturas de suporte
 
-Registros de atendimento e logs de atividade
+- Registros de atendimento e logs de atividade
 
-Códigos-fonte de sistemas desenvolvidos para cliente
+- Códigos-fonte de sistemas desenvolvidos para cliente
 ## 2.3 Princípios de Segurança Aplicados
 Para garantir a proteção dos dados e serviços, a TechFast Solutions adota os seguintes princípios fundamentais da segurança da informação:
 
