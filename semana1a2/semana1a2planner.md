@@ -53,7 +53,7 @@ Dados Sensíveis:
 
 - Códigos-fonte de sistemas desenvolvidos para cliente
 ## 2.3 Princípios de Segurança Aplicados
-Para garantir a proteção dos dados e serviços, a TechFast Solutions adota os seguintes princípios fundamentais da segurança da informação:
+Para garantir a proteção dos dados e serviços, a Forte soluções adota os seguintes princípios fundamentais da segurança da informação:
 
 Confidencialidade: Os dados dos clientes e códigos-fonte dos softwares são acessíveis apenas a funcionários autorizados. Medidas como autenticação de dois fatores (2FA) e controle de acesso são 
 aplicadas para proteger informações sensíveis.
